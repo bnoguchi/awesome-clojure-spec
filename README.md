@@ -13,7 +13,8 @@ A catalog of interesting clojure.spec repos and gists
 - [stuarthalloway/clojure_spec_missing_piece.clj](https://gist.github.com/stuarthalloway/c2a38f3741b5d0661d4debf77f2f48bb) Clojure spec's missing piece
 - [Arachne Error Reporting](https://github.com/arachne-framework/architecture/blob/master/adr-013-error-reporting.md)
 
-## Tests
+## Tests & Instrumentation
 
 - [benrady/specific](https://github.com/benrady/specific) Generate mocks and other test doubles using clojure.spec
 - [reifyhealth/specmonstah](https://github.com/reifyhealth/specmonstah) Use the power of clojure.spec to concisely set up "the state of the world" for unit tests.
+- [jeaye/orchestra](https://github.com/jeaye/orchestra) Complete instrumentation for clojure.spec
